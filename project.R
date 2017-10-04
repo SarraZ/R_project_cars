@@ -727,3 +727,4 @@ predict(ridge, newx=x0, s=ridge.10cv$lambda.min)
 
 predict(ridge, newx=x0, s=ridge.10cv$lambda.1se)
 
+#saraa dghdk
